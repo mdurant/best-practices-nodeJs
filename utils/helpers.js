@@ -1,0 +1,1 @@
+exports.helperFunction = () => { return 'Helper'; };

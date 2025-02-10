@@ -1,0 +1,29 @@
+{
+  "name": "best-practices-buchung-vereinfacht-pyme",
+  "version": "1.0.0",
+  "description": "Sample best practices nodejs, use memory and architectured by Integraltech",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdurant/best-practices-nodeJs.git"
+  },
+  "keywords": [
+    "best",
+    "practices",
+    "nodejs",
+    "express",
+    "architecture"
+  ],
+  "author": "Mauricio Duran CTO Integraltech.cl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdurant/best-practices-nodeJs/issues"
+  },
+  "homepage": "https://github.com/mdurant/best-practices-nodeJs#readme"
+}

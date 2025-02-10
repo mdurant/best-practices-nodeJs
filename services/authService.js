@@ -1,0 +1,1 @@
+exports.authenticate = () => { return 'Authenticated'; };
